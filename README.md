@@ -1,0 +1,2 @@
+# FridgeCamera
+First-timer repository
